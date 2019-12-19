@@ -1,6 +1,6 @@
 ///////////////////////////////////////////////////
 
-				Ticker
+			Ticker
 
 		-Developed By: Devon Porter
 		Resources:
@@ -19,7 +19,7 @@
 
 ///////////////////////////////////////////////////
 
-					WARNING:
+				WARNING:
 
 	This application is EXTREMELY expirimental and
 	is the first IOS app I have ever officially 
@@ -36,7 +36,7 @@
 ///////////////////////////////////////////////////
 
 
-				Supported Devices
+			Supported Devices
 	
 	-This is a list of devices that have been 
 	tested and proven to work properly with
@@ -51,7 +51,7 @@
 	and more. USE AT YOUR OWN RISK!
 
 	
-					Devices:
+				Devices:
 
 		-iPhone 7 (GSM)
 
