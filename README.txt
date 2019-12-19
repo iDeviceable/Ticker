@@ -1,9 +1,9 @@
 ///////////////////////////////////////////////////
 
-Ticker
+				Ticker
 
-	-Developed By: Devon Porter
-	Resources:
+		-Developed By: Devon Porter
+		Resources:
 		 -C++
 		 -Sublime 3
 		 -Visual Studio 2019
@@ -11,13 +11,32 @@ Ticker
 
 ///////////////////////////////////////////////////
 
-It is strongly recommended that you 
-read everything in this file to make 
-sure the application runs properly
+		It is strongly recommended that you 
+		read everything in this file to make 
+		sure the application runs properly
 
 ///////////////////////////////////////////////////
 
-Supported Devices
+///////////////////////////////////////////////////
+
+					WARNING:
+
+	This application is EXTREMELY expirimental and
+	is the first IOS app I have ever officially 
+	developed. This is posted online simply for
+	the benefit of learning, and seeing past
+	itterations of the program. You may download
+	this, copy, and redistribute this as you like,
+	however I do not want the files to be altered,
+	manipuated, or changed in ANY way. This is not
+	to be profited on, if someone is asking for
+	money to use the program, 
+				THEY ARE SCAMMING YOU!
+
+///////////////////////////////////////////////////
+
+
+				Supported Devices
 	
 	-This is a list of devices that have been 
 	tested and proven to work properly with
@@ -32,7 +51,7 @@ Supported Devices
 	and more. USE AT YOUR OWN RISK!
 
 	
-		Devices:
+					Devices:
 
 		-iPhone 7 (GSM)
 
